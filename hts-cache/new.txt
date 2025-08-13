@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:13:17	295/295	---M--	404	error ('Not%20Found')	text/html	date:Wed,%2013%20Aug%202025%2009:13:17%20GMT	http://localhost/robots.txt		(from )
+17:13:18	35212/35212	---MC-	200	added ('OK')	text/html	date:Wed,%2013%20Aug%202025%2009:13:17%20GMT	http://localhost/mywordpress/	E:/K%20Downloads/my-portfolio/localhost/mywordpress/index.html	(from )
